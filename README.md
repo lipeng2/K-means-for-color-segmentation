@@ -10,7 +10,7 @@ Using a k-mean clustering model to generate user-define color segmentation, and 
 
 ## Usage ##
 ```python
-python color segementation.py -p aurora.jpg -n 10 -s -d result.jpg
+python color_segementation.py -p aurora.jpg -n 10 -s -d result.jpg
 ```
 
 ## Example of Results 
